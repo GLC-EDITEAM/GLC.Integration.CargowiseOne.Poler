@@ -108,6 +108,7 @@
       <Namespace>GLC.Integration.CargowiseOne.Poler</Namespace>
       <SubType>Task</SubType>
     </Map>
+    <Content Include="TransformPolershipmntto945xml.xslt" />
     <Content Include="TransformShipmentToInterchange_poler.xsl">
       <SubType>Designer</SubType>
     </Content>
