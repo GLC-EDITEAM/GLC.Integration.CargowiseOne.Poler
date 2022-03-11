@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WarehouseTransactions>
+  <WarehouseTransaction>
+    <TransInfo>
+      <ReferenceNum>822307</ReferenceNum>
+      <AIMS360CustOrderNum>121646</AIMS360CustOrderNum>
+      <PONum>WHOLESALE PO TEST</PONum>
+      <ExpectedDate>2022-03-31</ExpectedDate>
+      <EarliestShipDate>2022-02-18</EarliestShipDate>
+      <AIMS360ClientCode>PACEV</AIMS360ClientCode>
+      <AIMS360ClientName>PACIFIC &amp; EVEREST  LIFESTYLE CO. C/O  POLER</AIMS360ClientName>
+      <CompanyName>Poler</CompanyName>
+      <Email>krichgnar@gmail.com</Email>
+      <CompanyDivisionCode>*</CompanyDivisionCode>
+      <CompanyDivisionDescription>*Mixed Division</CompanyDivisionDescription>
+      <OrderType>B2B</OrderType>
+      <WarehouseCode>00002</WarehouseCode>
+      <WarehouseName>GLC</WarehouseName>
+      <DepartmentCode></DepartmentCode>
+      <DepartmentDescription />
+      <DivisionCode />
+      <DivisionDescription />
+      <CustomerAcctCode>PLACI</CustomerAcctCode>
+      <CustomerName>Placebo Boardshop</CustomerName>
+      <MarkForStoreNumber />
+      <MarkForStoreName>Placebo Boardshop</MarkForStoreName>
+      <COD>No</COD>
+      <ServiceLevel></ServiceLevel>
+      <MerchType />
+    </TransInfo>
+    <BillTo>
+      <BillToCode />
+      <Name>Placebo Boardshop</Name>
+      <Address>
+        <Address1>709 SE 142nd Ave</Address1>
+        <Address2 />
+        <Address3 />
+        <City>Portland</City>
+        <State>OR</State>
+        <Zip>97233</Zip>
+        <Country />
+        <CountryCode />
+      </Address>
+      <PhoneNumber1 />
+      <Email>krichgnar@gmail.com</Email>
+    </BillTo>
+    <MarkFor>
+      <MarkForCode />
+      <Name>Placebo Boardshop</Name>
+      <Address>
+        <Address1>709 SE 142nd Ave</Address1>
+        <Address2 />
+        <Address3 />
+        <City>Portland</City>
+        <State>OR</State>
+        <Zip>97233</Zip>
+        <Country />
+        <CountryCode />
+      </Address>
+      <PhoneNumber1 />
+      <Email />
+    </MarkFor>
+    <ShipTo>
+      <Store />
+      <DCNo />
+      <ShipToCode />
+      <Name>Placebo Boardshop</Name>
+      <CompanyName>Placebo Boardshop</CompanyName>
+      <Address>
+        <Address1>709 SE 142nd Ave</Address1>
+        <Address2 />
+        <Address3 />
+        <City>Portland</City>
+        <State>OR</State>
+        <Zip>97233</Zip>
+        <Country />
+        <CountryCode />
+      </Address>
+      <PhoneNumber1 />
+      <Fax />
+      <Email>krichgnar@gmail.com</Email>
+    </ShipTo>
+    <ShippingInstructions>
+      <SCACCode>FDE4</SCACCode>
+      <Carrier>FEDEX</Carrier>
+      <Mode>FedEx Ground</Mode>
+      <VASShippingServ />
+      <BillingCode>PREPAID</BillingCode>
+      <Account />
+      <ShippingNotes />
+      <PackingNotes></PackingNotes>
+      <VASNotes></VASNotes>
+      <PackingSlipUrl />
+    </ShippingInstructions>
+    <Notes />
+    <SavedElements>
+      <CodeDescrPair>
+        <Code />
+        <Description />
+      </CodeDescrPair>
+    </SavedElements>
+    <OrderItems>
+      <OrderItem>
+        <SKU>214ACU5401_GRDR_L/XL</SKU>
+        <OrderQty>1</OrderQty>
+        <Price>108.0000</Price>
+        <UPC>840230602236</UPC>
+        <BuyersPartNum />
+        <BuyersColorDescrp></BuyersColorDescrp>
+        <UOM>EA</UOM>
+        <Notes />
+        <OrderLineId>d86b190d-f390-ec11-a507-0050f2fdd229</OrderLineId>
+        <SavedElements />
+      </OrderItem>
+    </OrderItems>
+  </WarehouseTransaction>
+</WarehouseTransactions>
